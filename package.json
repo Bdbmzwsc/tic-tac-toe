@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "leaf build",
+    "dev": "leaf dev",
+    "start": "leaf start"
+  },
+  "dependencies": {
+    "@leaf-web/core": "^0.2.4"
+  },
+  "devDependencies": {
+    "@leaf-web/parser": "^0.2.4"
+  }
+}

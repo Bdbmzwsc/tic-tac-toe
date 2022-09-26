@@ -1,0 +1,5 @@
+{
+  "entry": "./src/index.jsx",
+  "entryHTML": "index.html",
+  "outputDir": "./dist"
+}
